@@ -1,0 +1,116 @@
+.header{
+	background-color: #87130d;
+    height: 300px;
+	display: flex;
+	align-items: center;
+	justify-content: center; 
+
+}
+.social-icons {
+  display: flex;
+  justify-content: center;
+}
+
+.social-icons a {
+  margin: 0 15px;
+}
+
+.social-icons i {
+  font-size: 45px;
+  color: #333;
+  opacity: 0.8;
+}
+.social-icons i:hover {
+  color: #fff;
+}
+body {
+	background-image: url('bc.jpg');
+	background-size: cover;
+	overflow-x: hidden;
+
+}
+.container {
+	width: 100%;
+	min-width: 1200px;
+	margin: 0 auto;
+	padding-left: 38rem;
+	padding-right: 38rem;
+}
+hr{
+	width: 1200px;
+}
+h1{ 
+	text-align: center;
+	color: #fff;
+	font-size: 49px;
+	font-family: 'Unbounded', cursive;
+}
+p{
+	font-family: 'Unbounded', cursive;
+	color: #000;
+}
+h2{
+	font-size: 30px;
+}
+.profile{
+	margin-top: 130px;
+	margin-bottom: 76px;
+	color: #fff;
+	font-family: 'Unbounded', cursive;
+
+}
+.text{
+	font-size: 20px;
+	color: #fff;
+	font-family: 'Poiret One', cursive;
+}		
+.pe{
+	margin-bottom: 76px;
+	color: #fff;
+	font-family: 'Unbounded', cursive;
+
+}
+.edu{
+	margin-bottom: 76px;
+	color: #fff;
+	font-family: 'Unbounded', cursive;
+
+}
+.sc{
+	margin-bottom: 76px;
+	color: #fff;
+	font-family: 'Unbounded', cursive;
+
+}
+.ach{
+	margin-bottom: 76px;
+	color: #fff;
+	font-family: 'Unbounded', cursive;
+
+}
+ .rectangle {
+ 	width: 270px;
+    background-color: #87130d;
+    border: 2px solid #87130d;
+    margin: 10px;
+  }
+i{
+	font-size: 2.5em;
+	text-align: center;
+	color: #478bff;
+}
+ form input[type="submit"] {
+ background-color: green;
+ color: #fff;
+ border: none;
+ border-radius: 3px;
+ padding: 10px 20px;
+ cursor: pointer;
+ font-family: 'Unbounded', cursive,;
+ }
+ form input[type="submit"]:hover {
+ background-color: #3e8e41;
+ }
+ input, select, textarea {
+  font-family: 'Unbounded', cursive;
+}
